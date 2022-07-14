@@ -1,0 +1,37 @@
+h1 {
+    background-color: indianred;
+}
+
+span {
+    background-color: green;
+}
+
+h2 {
+    background-color: indianred;
+}
+
+h4 {
+    background-color: aqua;
+    height: 50px;
+}
+
+a {
+    background-color: tomato;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+
+}
+
+.room-select {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+}
+
+#box-display {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 10%;
+}
