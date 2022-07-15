@@ -1,5 +1,8 @@
 h1 {
     background-color: indianred;
+    border: 20px solid blueviolet;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 span {
@@ -13,6 +16,15 @@ h2 {
 h4 {
     background-color: aqua;
     height: 50px;
+}
+
+h3 {
+    background-color: white;
+}
+
+p {
+    background-color: aqua;
+}
 }
 
 a {
