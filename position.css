@@ -1,0 +1,31 @@
+.swimming {
+    position: relative;
+}
+
+.swimming div {
+    border: 1px dashed salmon;
+    width: 200px;
+}
+
+.boy {
+    position: relative;
+    top: 70px;
+    z-index: 2;
+}
+
+.ring {
+    position: relative;
+    z-index: 1;
+}
+
+.water {
+    position: relative;
+    top: -75px;
+
+}
+
+.dummy {
+    height: 150px;
+    width: 250px;
+    background-color: pink;
+}
